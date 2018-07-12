@@ -1,0 +1,5 @@
+com\niit\doshoponline\testcases\CategoryTestCase.class
+com\niit\doshoponline\testcases\UserDAOTestCase.class
+com\niit\doshoponline\AppTest.class
+com\niit\doshoponline\testcases\ProductDAOTestCase.class
+com\niit\doshoponline\testcases\SupplierDAOTestCase.class
